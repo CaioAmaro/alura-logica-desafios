@@ -1,5 +1,5 @@
 let totalGeral = 0;
-
+//teste
 function adicionar(){
 
     let quantidade = document.getElementById('quantidade').value;
